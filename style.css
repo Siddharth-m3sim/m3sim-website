@@ -38,9 +38,14 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    background: linear-gradient(rgba(26, 26, 46, 0.8), rgba(26, 26, 46, 0.8)), url('https://placehold.co/1920x1080/2a2a4e/cccccc?text=FUTURISTIC+DIGITAL+TWIN+IMAGE') no-repeat center center/cover;
+    background: linear-gradient(rgba(26, 26, 46, 0.8), rgba(26, 26, 46, 0.8)), url('flightHologram.jpg') no-repeat center center/cover;
     position: relative;
     color: white;
+}
+
+.logo-img {
+    height: 45px; /* Adjust the logo size as needed */
+    width: auto;
 }
 
 .logo {
